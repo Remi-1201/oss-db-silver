@@ -1,5 +1,16 @@
 # CHAP 2 (基礎知識)
 
+
+---
+
+## 2.7
+
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/205529130-b6be79a1-0a44-440c-a0f5-b0f6863fa11f.png"></div> 
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/205529167-9f2ed04e-9c95-4aaf-9d69-c3212fa50d8f.png"></div> 
+
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/205529962-93f5bcab-48dc-4a8a-ab5d-410c54c857bc.png"></div> 
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/205530004-173e8f38-6a5a-4104-9f61-470df274697e.png"></div> 
+
 ---
 
 ## 2.6
