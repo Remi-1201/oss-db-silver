@@ -1,5 +1,22 @@
 # CHAP 2 (基礎知識)
 
+---
+
+## 2.10
+
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/206949032-90eb7bfc-e990-40db-a329-7dfbcf497b7f.png"></div> 
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/206949073-f300f04b-2345-4c53-b90b-0762fe844a18.png"></div> 
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/206950046-f7a50d16-854d-42bf-9a66-292bc50ea6e7.png"></div> 
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/206950115-8fc51584-8deb-4b60-b6be-3bdb6f77d45e.png"></div> 
+
+---
+
+## 2.9
+
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/206947067-f1291322-9a28-484f-be8c-7085e1c56f0a.png"></div> 
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/206947165-f7cbf937-83ec-4a4c-b01c-6abfde50a98e.png"></div> 
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/206948841-14ca685b-0650-412c-af54-7d874811e7ea.png"></div> 
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/206948890-e75e87cb-c6d5-434a-9808-152293b254b5.png"></div> 
 
 ---
 
@@ -7,8 +24,7 @@
 
 <div align="center"><img src="https://user-images.githubusercontent.com/97021497/205552956-f9654e99-4720-430e-bd72-7f85db6b1dbf.png"></div> 
 <div align="center"><img src="https://user-images.githubusercontent.com/97021497/205553014-cb004603-408c-4706-ac9a-ea65b5769453.png"></div> 
-
-
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/206946959-7e98972f-165f-473e-9323-e5eb62df9572.png"></div> 
 
 ---
 
