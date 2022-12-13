@@ -36,14 +36,20 @@ sudo apt-get install gcc-snapshot
 sudo apt-get install gcc g++
 $ 【./configure】 or 
 【./configure --without-readline --without-zlib】 or 
-【./configure --prefix =/home/postgres/pgsql】
+【./configure --prefix =/home/remi/postgresql-11.2】
 
-(if errors) --> export PATH="$PATH:/C/Work/postgresql-11.2/src/bin"
+
+(if errors) --> export PATH="$PATH:/home/remi/postgresql-11.2/src/bin"
 (if errors) --> sudo apt-get install postgresql-devel
 
 (change to root) --> su -
-sudo apt-get install make
-$ make
+
+(if errors) --> sudo apt-get install readline
+(if errors) --> sudo apt-get install make
+```
+
+```
+make
 
 $ su 
 # make install 
@@ -58,11 +64,35 @@ export PATH =/usr/local/pgsql/bin:$PATH <---インストール 先 の bin デ�
 ```
 --> 追加　↓
 ```
-export PATH=/C/Work/postgresql-11.2/src/bin:$PATH
-export LD_LIBRARY_PATH=/C/Work/postgresql-11.2/src/backend/lib:$LD_LIBRARY_PATH
+export PATH =/usr/local/pgsql/bin:$PATH
+export LD_LIBRARY_PATH=/usr/local/pgsql/lib:$LD_LIBRARY_PATH
 ``` 
 ↓
 ``` 
  $ source ~/.bash_profile
  ```
  
+ #### 3.1.5 起動と停止
+ 
+``` 
+ $  createdb -D /home/remi/postgresql-11.2/ --locale=C
+```
+ ↓
+> Warning: No existing cluster is suitable as a default target. Please see man pg_wrapper(1) how to specify one.
+> Error: You must install at least one postgresql-client-<version> package
+ ↓
+```
+sudo apt install postgresql-client-common
+echo "deb http://apt.postgresql.org/pub/repos/apt/ `lsb_release -cs`-pgdg main" | sudo tee /etc/apt/sources.list.d/pgdg.list
+sudo apt update
+sudo apt -y install postgresql-client
+```
+ 
+``` 
+ $  createdb -D /home/remi/postgresql-11.2/ --locale=C
+```
+ ↓
+> createdb: error: connection to server on socket "/var/run/postgresql/.s.PGSQL.5432" failed: No such file or directory
+ 
+```
+```
