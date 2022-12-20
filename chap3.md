@@ -1,12 +1,41 @@
 # CHAP 3 (インストール)
 
----
+---　
 
-## 2.10
+## 練習問題　ここから～
 
-<div align="center"><img src="#"></div> 
+## 3.3
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/208568692-c9ae2507-8c0b-4473-a9c5-842020939c26.png"></div> 
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/208568755-737a1d80-d4a5-44a1-85d5-906b84212eaf.png"></div> 
 
----
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/208569357-d383d8e4-fb26-4ec5-89a6-558cb7c668f1.png"></div> 
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/208569519-5a5526c7-eb87-4e61-9873-911ed6dc8991.png"></div> 
+
+---　
+
+## 3.2
+
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/208561183-5b5e3901-0fb6-4108-a60e-587c0a72e397.png"></div> 
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/208561246-d33ab87b-89a3-4e16-a49d-f8fa8916db3f.png"></div> 
+
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/208563857-5d26ef6a-a210-4929-814b-e38f1f154dad.png"></div> 
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/208563910-2a92b132-39cb-45dc-aaa5-054982ec2f59.png"></div> 
+
+---　
+
+## 3.1
+
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/208555794-6ad83e45-4dc5-4768-9854-ed21b5edee68.png"></div> 
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/208557879-353a9c76-7a6f-4b18-b89f-0209724afff8.png"></div> 
+
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/208560077-e1ada24e-3ea8-4056-8a97-b79a40d5b663.png"></div> 
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/208560141-379e5152-54e1-4b7f-90d8-2656dec410bf.png"></div>
+
+
+## 練習問題　～ここまで
+
+---　
+
 #### 3.1.3 a
 
 <div align="left"><img src="https://user-images.githubusercontent.com/97021497/207203393-7f33ce34-13d5-4db5-964c-b93357e1cba6.png" width="650"></div> 
