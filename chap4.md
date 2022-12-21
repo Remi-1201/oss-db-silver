@@ -80,3 +80,20 @@ pg_ctl status -D /pgdata
 $ 
 pg_ctl status
 ```
+
+## 4-2-7 　 pg_ctl kill
+
+```
+//　pg_ctl kill シグナル名 プロセスID
+
+$ pg_ctl kill TERM 10626 
+```
+
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/208820593-05ba92ae-478f-400f-9592-f836c5d512bc.png"></div> 
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/208820833-5890213f-6224-4d0a-b3a9-465b4836f4d8.png"></div> 
+
+```
+$ pg_ctl status -D /pgdata 
+
+$ pg_ctl kill TERM 10626 
+```
