@@ -4,14 +4,26 @@
 
 ## 練習問題　ここから～
 
+## 3.5
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/208793494-7b9e0491-c73b-4ede-97af-ec83871c0da8.png"></div> 
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/208793546-c0ca25a8-c67d-41c8-bbab-d8c078defe65.png"></div> 
+
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/208794420-3f085314-3b25-45ae-897e-34b49b34041b.png"></div> 
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/208794473-9d75dbfc-e02a-4654-912d-2fdba00f3c7d.png"></div> 
+
+## 3.4
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/208791854-79a981ba-add6-4454-ade5-13b009079cb5.png"></div> 
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/208791919-529d4453-911b-436e-a99f-3d53bd7ca35e.png"></div> 
+
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/208793254-119c7da5-3098-4593-bc19-942ff9150d09.png"></div> 
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/208793306-f790b245-ac09-4571-83eb-c651c4441d4c.png"></div> 
+
 ## 3.3
 <div align="center"><img src="https://user-images.githubusercontent.com/97021497/208568692-c9ae2507-8c0b-4473-a9c5-842020939c26.png"></div> 
 <div align="center"><img src="https://user-images.githubusercontent.com/97021497/208568755-737a1d80-d4a5-44a1-85d5-906b84212eaf.png"></div> 
 
 <div align="center"><img src="https://user-images.githubusercontent.com/97021497/208569357-d383d8e4-fb26-4ec5-89a6-558cb7c668f1.png"></div> 
 <div align="center"><img src="https://user-images.githubusercontent.com/97021497/208569519-5a5526c7-eb87-4e61-9873-911ed6dc8991.png"></div> 
-
----　
 
 ## 3.2
 
@@ -20,8 +32,6 @@
 
 <div align="center"><img src="https://user-images.githubusercontent.com/97021497/208563857-5d26ef6a-a210-4929-814b-e38f1f154dad.png"></div> 
 <div align="center"><img src="https://user-images.githubusercontent.com/97021497/208563910-2a92b132-39cb-45dc-aaa5-054982ec2f59.png"></div> 
-
----　
 
 ## 3.1
 
@@ -33,8 +43,6 @@
 
 
 ## 練習問題　～ここまで
-
----　
 
 #### 3.1.3 a
 
